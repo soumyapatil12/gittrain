@@ -1,1 +1,3 @@
- Hello git repository example
+this is example java file
+data
+some more data
